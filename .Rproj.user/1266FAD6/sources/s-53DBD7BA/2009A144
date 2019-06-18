@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560859021272.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "198073880",
+    "id" : "2009A144",
+    "lastKnownWriteTime" : 1560859028,
+    "last_content_update" : 1560859028631,
+    "path" : "~/Library/Mobile Documents/com~apple~CloudDocs/Data Science/RProjetcs/Protein-Interaction/gene-autism.R",
+    "project_path" : "gene-autism.R",
+    "properties" : {
+        "cursorPosition" : "41,9",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

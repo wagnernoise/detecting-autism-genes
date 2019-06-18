@@ -1,0 +1,3 @@
+"0","library(""png"")"
+"0","pp <- readPNG(""figs/fig1.png"")"
+"0","plot.new() "

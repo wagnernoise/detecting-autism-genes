@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560852608144.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "758656363",
+    "id" : "5C63BA97",
+    "lastKnownWriteTime" : 1560859030,
+    "last_content_update" : 1560859030687,
+    "path" : "~/Library/Mobile Documents/com~apple~CloudDocs/Data Science/RProjetcs/Protein-Interaction/protein-interaction.R",
+    "project_path" : "protein-interaction.R",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
