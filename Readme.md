@@ -1,12 +1,5 @@
----
-title: "DISCOVERING GENES THAT CAUSE AUTISM USING NETWORK THEORY"
-date: "18/06/2019"
-output: html_document
----
+# DISCOVERING GENES THAT CAUSE AUTISM USING NETWORK THEORY
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Intro
 This analysis uses the data provided by the BIOGRID dataset (http://thebiogrid.org). The dataset used in this study is a simplified version provided by MIT 'BIOGRID.txt'
